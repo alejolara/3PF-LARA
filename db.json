@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "name": "testasd",
+      "surname": "test",
+      "email": "test@mail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "asd",
+      "descripcion": "asd",
+      "precio": 123,
+      "duracion": "asd",
+      "id": 1
+    },
+    {
+      "nombre": "test",
+      "descripcion": "trest",
+      "precio": 32,
+      "duracion": "test",
+      "id": 2
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "test",
+      "email": "srfasd",
+      "password": "123123",
+      "apellido": "test",
+      "dni": "123",
+      "id": 1
+    },
+    {
+      "nombre": "alumno",
+      "email": "123q",
+      "password": "alumno",
+      "apellido": "alumno",
+      "dni": "123",
+      "id": 2
+    }
+  ]
+}
